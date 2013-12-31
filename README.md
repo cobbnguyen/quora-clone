@@ -25,6 +25,3 @@ Features:
 
 
 Side note: Recently I discovered that I had been committing under the name 'App Academy Student' because I'd been working on their computers. oh well. I swear I'm not stealing this from anyone... 
-
-![Codeship Status](https://www.codeship.io/projects/1c5e08a0-4f47-0131-7f52-1e55365af0d4/status)
-
